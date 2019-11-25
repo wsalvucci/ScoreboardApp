@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScoreboardApp</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+    <string name="team_a_touchdown">Touchdown +6</string>
+    <string name="team_b_touchdown">Touchdown +6</string>
+    <string name="team_a_extra_point">Extra Point +1</string>
+    <string name="team_b_extra_point">Extra Point +1</string>
+    <string name="team_a_field_goal">Field Goal +3</string>
+    <string name="team_b_field_goal">Field Goal +3</string>
+    <string name="team_a_safety">Safety +2</string>
+    <string name="team_b_safety">Safety +2</string>
+    <string name="reset_a_score">Reset Team A</string>
+    <string name="reset_b_score">Reset Team B</string>
+</resources>
